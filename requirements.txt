@@ -9,3 +9,6 @@ torch==1.7.1
 torchvision==0.8.2
 tqdm==4.43.0
 visdom==0.1.8.9
+simplejpeg
+ftfy
+numba==0.48
